@@ -11,8 +11,3 @@ Develop personal knowledge and essential skills for data analysis in Python.
     - Import pandas and matplotlib
     - Data visualization
     - More conclusions
-
-# Resources
-
-    - Guided project on Dataquest.io: https://app.dataquest.io/m/356/guided-project%3A-exploring-hacker-news-posts
-    - Hacker News dataset: https://www.kaggle.com/hacker-news/hacker-news-posts
