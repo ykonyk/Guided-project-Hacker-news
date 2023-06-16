@@ -1,7 +1,8 @@
-What is this project about?
+## What is this project about?
 
 Analysing data from the Hacker News posts to have a good understanding of users interaction on this platform.
-What is its goal?
+
+## What is its goal?
 
 Develop personal knowledge and essential skills for data analysis in Python.
 Next steps
